@@ -1,14 +1,10 @@
-<h2 align="center"> Hi there</h2>
 
-<hr/>
-
-
-
-<img align='right' src='https://octodex.github.com/images/privateinvestocat.jpg' width='25%'>  
+![Random Cat GIF](https://cataas.com/cat/gif?random=1)
 
 *  `My name is`: **Fernando**
-*  `I'm`: **21 years old**
-*  `I’m currently learning`: **Rust**
-*  `Favorite lang`: **Rust & TypeScript**
-*  `Interested in`: **Machine learning**
+*  `I'm`: **22 years old**
+*  `I’m currently learning`: **.NET**
+*  `Favorite lang`: **TypeScript**
+*  `Interested in`: **Data Science**
+
 
